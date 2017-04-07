@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_52141c3c7b197f7a673b7f9baa51bbda50dbc5b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_22d7af4cc6b32ecd788a0bc4f68b9460eccc1a42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f0d2c91248d66c2f6f02be6235c1bb450876d0cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_7a9fe594122fbfecf870b7e73418a620f31ead0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a5e8f27971050ee29b2d9d26c380a9a4b25b9c59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fa3d7e7253bac15262be97613839e0fa7f6a0e10">
+        <dex dex="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e3cfb657a219b907ef413d141249b2c260029a87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_af87de247ae7061027cd91fefd27fa93bf4c49d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2679db6853c95a586ed5a72ee777cab85d53f09f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="077e6c31a2dac2f1e3c1e9e552b9993c13e9aabc">
+        <dex dex="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_61b71a1383b6eeaf268b894a6105d8841c1659fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_cdc0e780d98c75e844e675465231427ee57eb782\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_c32634def1696b289ca53e8734d8e344a7f97bfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6d7d1897e1eed3665902fec407af49d4848ebec9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2d7950b5141ddcd544c950d53aa9e4618d8eeaa5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_3ac46f353f7744920eebc2e4ea86c3084800da1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_fe8770d9721093a224a5939d18b45575c4bb96d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_ec1c863f46b80e23b9a719ce5cb06b71f31429a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\apps\CalAppDemp\CalAppSecDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_63c12291423d9faac24ccc080a3fbb40a7f2ef9a\classes.dex" />
+    </item>
+
+</items>
